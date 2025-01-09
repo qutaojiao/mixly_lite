@@ -1,8 +1,3 @@
-<p align="center">
-  <a href="https://mixly3.gitee.io/mixly3.0_src">
-    <img src="https://foruda.gitee.com/images/1677155717148882961/0c044ac0_5225463.png" width="100" alt="Mixly">
-  </a>
-</p>
 <h2 align="center">Mixly-MakerSNS</h2>
 <p align="center">
   本源码是基于，Mixly的基础上进行二次开发修改，使其适合增删改查服务器端的文件。
